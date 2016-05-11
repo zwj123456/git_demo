@@ -2,8 +2,8 @@ package git_demo;
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("eee");
-		System.out.println(999);
-		System.out.println(555);
+		System.out.println("dwqqq");
+		System.out.println(22);
+		System.out.println(33);
 	}
 }
