@@ -5,5 +5,8 @@ public class Hello {
 		System.out.println("bbb");
 		System.out.println("dfdf");
 		System.out.println(33);
+		System.out.println(999);
+		System.out.println(11);
+		System.out.println(55);
 	}
 }
