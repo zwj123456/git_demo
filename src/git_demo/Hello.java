@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println(33);
 		System.out.println("wefwe");
 		System.out.println("sss");
+		System.out.println(123);
 	}
 }
