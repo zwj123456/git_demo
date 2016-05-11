@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("def");
 		System.out.println("ddd");
 		System.out.println(123);
+		System.out.println(33);
 	}
 }
